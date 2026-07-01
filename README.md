@@ -40,32 +40,6 @@ My current research asks how we can build safety into systems before deployment,
   </tr>
 </table>
 
-## Research Map
-
-```mermaid
-flowchart LR
-  A["Trustworthy AI"] --> B["Agentic-System Safety"]
-  A --> C["Model-Compression Safety"]
-  A --> D["AI-Generated Content Detection"]
-  B --> E["Memory Poisoning"]
-  B --> F["Context-Window Defense"]
-  C --> G["Quantization"]
-  C --> H["Pruning"]
-  D --> I["Paraphrase Attacks"]
-  D --> J["Phishing Detection"]
-```
-
-## Featured Work
-
-| Project | What It Studies | Links |
-| --- | --- | --- |
-| **Memory-Poison Defense** | How poisoned information enters agent memory or context and changes downstream behavior. | [Website](https://JonathanZha47.github.io/research/) |
-| **Model-Compression Safety** | Whether compression methods introduce, amplify, hide, or preserve safety behavior. | [Website](https://JonathanZha47.github.io/research/) |
-| **PADBen** | Robust evaluation of AI text detectors against paraphrase attacks. | [Code](https://github.com/JonathanZha47/PadBen-Paraphrase-Attack-Benchmark) |
-| **MobileAgentBench** | Efficient and user-friendly evaluation for mobile LLM agents. | [Project](https://mobileagentbench.github.io/) / [arXiv](https://arxiv.org/abs/2406.08184) |
-| **SMARTFinRAG** | Interactive modularized benchmark for financial retrieval-augmented generation. | [Code](https://github.com/JonathanZha47/SMARTFinRAG) |
-| **iTransPASOH** | Physics-aware iTransformer framework for lithium-ion battery state-of-health estimation. | [Website](https://JonathanZha47.github.io/publications/) |
-
 ## Toolbox
 
 <div align="center">
